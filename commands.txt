@@ -1,0 +1,6 @@
+for the mainnet:
+
+ganache-cli --fork ALCHEMY_API_KEY -u 0x57757E3D981446D585Af0D9Ae4d7DF6D64647806
+
+run script 
+truffle exec scripts/fundAccount.js
